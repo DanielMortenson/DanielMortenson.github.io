@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-05-13T15:02:36-04:00</updated>
+  <updated>2022-05-13T15:53:29-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,40 @@
   
 
   
+  
+    <entry>
+      <title type="html">Cake cooling simulator</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Cake cooling simulator" />
+      <published>2022-05-12T00:00:00-04:00</published>
+      <updated>2022-05-12T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Cake%20Cooling%20Simulator</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Predatory swarm</title>
@@ -54,45 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2014-07-17T00:00:00-04:00</published>
-      <updated>2014-07-17T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Twitter hashtag network detection</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Twitter hashtag network detection" />
       <published>2014-07-16T00:00:00-04:00</published>
       <updated>2014-07-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-3</id>
+      <id>http://localhost:4000/Twitter%20Hashtag%20Network%20Detection</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

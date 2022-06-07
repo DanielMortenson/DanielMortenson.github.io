@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-05-17T17:08:45-04:00</updated>
+  <updated>2022-06-07T11:35:39-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Cake cooling simulator</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Cake cooling simulator" />
-      <published>2022-05-12T00:00:00-04:00</published>
-      <updated>2022-05-12T00:00:00-04:00</updated>
-      <id>http://localhost:4000/Cake%20Cooling%20Simulator</id>
+      <title type="html">Predatory swarm</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Predatory swarm" />
+      <published>2022-05-17T00:00:00-07:00</published>
+      <updated>2022-05-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/Predatory%20Swarm</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -54,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">Predatory swarm</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Predatory swarm" />
-      <published>2014-07-18T00:00:00-04:00</published>
-      <updated>2014-07-18T00:00:00-04:00</updated>
-      <id>http://localhost:4000/Predatory%20Swarm</id>
+      <title type="html">Cake cooling simulator</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Cake cooling simulator" />
+      <published>2022-05-12T00:00:00-07:00</published>
+      <updated>2022-05-12T00:00:00-07:00</updated>
+      <id>http://localhost:4000/Cake%20Cooling%20Simulator</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -90,8 +90,8 @@
     <entry>
       <title type="html">Twitter hashtag network detection</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Twitter hashtag network detection" />
-      <published>2014-07-16T00:00:00-04:00</published>
-      <updated>2014-07-16T00:00:00-04:00</updated>
+      <published>2014-07-16T00:00:00-07:00</published>
+      <updated>2014-07-16T00:00:00-07:00</updated>
       <id>http://localhost:4000/Twitter%20Hashtag%20Network%20Detection</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 

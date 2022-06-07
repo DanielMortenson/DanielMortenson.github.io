@@ -32,7 +32,9 @@ a.active {
     color: #18bc9c;
 }
 
-h3 { text-align: center;}
+h3 { text-align: center;
+    text-transform: capitalize;
+}
 
 h1,
 h2,
